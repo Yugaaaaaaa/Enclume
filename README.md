@@ -17,11 +17,13 @@ Il faut Windows 10 ou 11 et Garry’s Mod installé par Steam (détecté automat
 - **Terrain** : créer un terrain (dalles, relief, image de relief, boîte de ciel automatique), sculpter (terrasses, érosion…) et peindre le sol avec n’importe quelle texture, sans rien sélectionner.
 - **Herbe** : faire pousser ou enlever l’herbe de GMod au pinceau, zone verte où elle poussera, aperçu avec les modèles de détail.
 - **Ciel, brume et heure** : ciels en vignettes, brume réglée en direct, heure du jour (soleil et brume), **rendu jeu** pour voir la map comme dans GMod.
+- **Vue joueur** (F6) : marcher dans la map comme dans GMod, avec collisions, saut, accroupi et noclip.
+- **Outils de map** : texture automatique du terrain (herbe, roche, neige, sable), forêt automatique, pinceaux Aplanir et Rampe, nodes pour les PNJ, nodraw automatique, vignette de la map pour le menu de GMod, historique des actions.
 - **Eau** : lacs et rivières au pinceau, terrain creusé, berges, terre mouillée, préréglages.
 - **Chemins, routes et murs** : chemin peint au pinceau, routes avec jonctions, murs avec portes.
 - **Props** : bibliothèque avec favoris et récents, pose et enfoncement, conversion prop ↔ brushes.
 - **Compilation** : un bouton « Compiler et tester », vérifications de la map, erreurs expliquées, contenu des joueurs intégré au BSP ou en addon.
-- **Confort** : interface violette en français, sauvegarde automatique et récupération après plantage, vol ZQSD (F2 ou ²), taille d’interface, présence Discord, mode avancé avec les outils de Hammer.
+- **Confort** : interface violette en français, vue 3D plus fluide (carte graphique dédiée, caméra fluide), sauvegarde automatique et récupération après plantage, vol ZQSD (F2 ou ²), taille d’interface, présence Discord, mode avancé avec les outils de Hammer.
 
 ## Signaler un problème
 
