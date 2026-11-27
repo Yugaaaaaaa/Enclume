@@ -14,6 +14,7 @@ Il faut Windows 10 ou 11 et Garry’s Mod installé par Steam (détecté automat
 
 ## Ce qu’il sait faire
 
+- **Assistant Claude** : demandez en français de poser des props, meubler une pièce, créer des entités reliées ou vérifier la map ; il cherche dans vos modèles, mesure la map, regarde la vue 3D et agit, le tout annulable d’un Ctrl+Z (avec votre propre clé API Anthropic, payée à l’usage).
 - **Terrain** : créer un terrain (dalles, relief, image de relief, boîte de ciel automatique), sculpter (terrasses, érosion…) et peindre le sol avec n’importe quelle texture, sans rien sélectionner.
 - **Herbe** : faire pousser ou enlever l’herbe de GMod au pinceau, zone verte où elle poussera, aperçu avec les modèles de détail.
 - **Ciel, brume et heure** : ciels en vignettes, brume réglée en direct, heure du jour (soleil et brume), **rendu jeu** pour voir la map comme dans GMod.
